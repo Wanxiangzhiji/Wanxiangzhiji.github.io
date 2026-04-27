@@ -14,5 +14,5 @@ My past work includes resilience analysis of financial risk networks and the app
 Currently, my research focuses on complex network method to capture human behaviors and their effects on energy systems 💭🌏🌍🌏, with the goal of combining systems engineering area together.
 Feel free to contact me if you have any ideas~😊
 
-News
+News🔥🔥🔥
 ======
