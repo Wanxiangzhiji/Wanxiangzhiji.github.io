@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Systems Engineering, Colorado State University, 2025-2028 (expected)
+* Ph.D in Systems Engineering, The George Washington University, 2023-2025
+* M.S. in Management Science and Engineering, Tianjin University, 2023
+* B.S. in Economic Statistics, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Financial Risk Analysis Intern; Beijing, China; July 2021-Oct 2021   
+  * Jingdong Group Co., Ltd.
+  * Internship
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graduate Research Assistant; Sep 2020 - Jun 2023
+  * Tianjin University
+  * Research on the application of reinforcement learning in degradation modeling and maintenance decision-making for industrial systems. Also involved in quality 
+    management consulting projects for industrial enterprises such as Great Wall Motors and Haier.
+
+* Data Analytics Intern; Jul 2020 - Sep 2020
+  * Taikang Insurance Group Inc.
+  * Internship
+
+* Undergraduate Research Assistant; Dec 2017 - Jul 2020
+  * Zhengzhou University
+  * The research focuses on two main areas: first, modeling complex financial systems and conducting risk analysis, with a primary focus on causal relationship     
+    networks; second, the application of market research and statistical analysis methods to economic issues, including questionnaire design, reliability and validity 
+    testing of questionnaires, and statistical analysis.
+
+* Business Consulting Intern, A&IM Service Line
+  * Deloitte Consulting
+  * Internship
+
+
+<!--
+#以下内容不显示需要的时候可添加 
 
 Publications
 ======
@@ -62,3 +66,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
